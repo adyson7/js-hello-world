@@ -4,8 +4,12 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log ("Hello, World!");console.log ("My First Code")
+console.log ("This PreWork is Crazy!!","Can I Print on the Same Line?")
+console.log ("\"Hello\"")
+for(var i = 1; i < 11; i += 1) {
+   console.log(i);
+}
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
